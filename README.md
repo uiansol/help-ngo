@@ -23,6 +23,6 @@ And mantain the terminal open running the project.
 
 ### Some Images
 
-![Image of incidents](https://github.com/uiansol/help-ngo/blob/master/imgs/screen1.png)
+![Image of incidents](https://github.com/uiansol/help-ngo/blob/master/imgs/screen1_small.png)
 
-![Help on a case](https://github.com/uiansol/help-ngo/blob/master/imgs/screen2.png)
+![Help on a case](https://github.com/uiansol/help-ngo/blob/master/imgs/screen2_small.png)
